@@ -1,2 +1,2 @@
-# frosoco-starter
-Starter code for the FroSoCo website workshop tutorial. The end product is something along the lines of the full application in the frosoco-local repository.
+# frosoco-local
+Local instance with simplified login (non-webauth), configured for a local mySQL server. Config, database config, and uploads modified to not reveal any information that is not public on the FroSoCo website.

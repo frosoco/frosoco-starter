@@ -1,0 +1,28 @@
+body {
+	background-color: #111;
+	font-family: 'Open Sans', sans-serif;
+}
+#info {
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 120px;
+	color: #555;
+	text-align: center;
+}
+#title {
+	margin-top: 20px;
+	font-size: 1.2em;
+}
+#subtitle {
+	margin-top: 10px;
+	font-size: 0.8em;
+}
+.logo {
+	opacity: 0.2;
+		transition: opacity .4s ease-in-out;
+		-moz-transition: opacity .4s ease-in-out;
+		-webkit-transition: opacity .4s ease-in-out;
+}
+.logo:hover {
+	opacity: 0.3;
+}
